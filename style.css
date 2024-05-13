@@ -55,7 +55,7 @@ header {
 }
 
 .navbar a {
-    font-size: 1.8rem;
+    font-size: 1.9rem;
     color: white;
     margin-left: 4rem;
     font-weight: 500;
@@ -223,27 +223,27 @@ span {
 
     0%,
     20% {
-        content: 'Software engineer';
+        content: 'Software Engineer';
     }
 
     21%,
     40% {
-        content: 'Web Developer';
+        content: 'Desenvolvedor Full Stack ';
     }
 
     41%,
     60% {
-        content: 'Software engineer';
+        content: 'Software Engineer';
     }
 
     61%,
     80% {
-        content: 'Web Developer';
+        content: 'Desenvolvedor Full Stack ';
     }
 
     81%,
     100% {
-        content: 'Software engineer';
+        content: 'Software Engineer';
     }
 }
 
